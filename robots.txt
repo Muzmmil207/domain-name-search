@@ -1,0 +1,5 @@
+User-Agent: *
+
+Disallow: /kjhg/
+
+Sitemap: https://fastdomain.netlify.app/sitemap.xml
